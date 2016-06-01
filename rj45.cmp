@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 8/4/2013 9:12:20 PM
+
+BeginCmp
+TimeStamp = /51FF1728;
+Reference = J1;
+ValeurCmp = RJ45;
+IdModule  = RJ45_8_ASSMAN;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FF1739;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51FF174D;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+EndListe
