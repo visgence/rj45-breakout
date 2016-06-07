@@ -3,7 +3,7 @@
   (general
     (links 8)
     (no_connects 0)
-    (area 25.349999 27.889999 48.310001 47.040001)
+    (area 22.86 27.889999 50.5968 47.364001)
     (thickness 1.6)
     (drawings 13)
     (tracks 23)
@@ -149,7 +149,7 @@
       (net 8 N-000008))
     (pad "" thru_hole circle (at 7.85 3.05) (size 1.8 1.8) (drill 1.65) (layers *.Cu *.Mask F.SilkS))
     (pad "" thru_hole circle (at -7.85 3.05) (size 1.8 1.8) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
-    (model ../../../../../../Users/cyrille/git/rj45-breakout/KiModels/Ethernet.wrl
+    (model ${KIPRJMOD}/KiModels/Ethernet.wrl
       (at (xyz 0 0.08 0.15))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -179,7 +179,7 @@
       (net 4 N-000004))
     (pad 4 thru_hole circle (at 3.81 0 270) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS)
       (net 5 N-000005))
-    (model ../../../../../../Users/cyrille/git/rj45-breakout/KiModels/Pin_Header_Straight_1x04.wrl
+    (model ${KIPRJMOD}/KiModels/Pin_Header_Straight_1x04.wrl
       (at (xyz 0 0 -0.05))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
@@ -209,7 +209,7 @@
       (net 7 N-000007))
     (pad 4 thru_hole circle (at 3.81 0 90) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS)
       (net 8 N-000008))
-    (model ../../../../../../Users/cyrille/git/rj45-breakout/KiModels/Pin_Header_Straight_1x04.wrl
+    (model ${KIPRJMOD}/KiModels/Pin_Header_Straight_1x04.wrl
       (at (xyz 0 0 -0.05))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
